@@ -1,0 +1,8 @@
+/build
+/node_modules
+/cjs
+/esm
+/dist
+/example
+/lib/formats
+/test
